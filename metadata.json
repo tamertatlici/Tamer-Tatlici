@@ -1,0 +1,7 @@
+{
+  "name": "FURCO Dealers Explorer",
+  "description": "An interactive web application to browse and filter a list of FURCO furniture dealers. It uses Google Maps Grounding via the Gemini API to provide up-to-date information about each dealer.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
